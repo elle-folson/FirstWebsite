@@ -1,0 +1,21 @@
+body{
+  background-color: purple;
+  font-size: 25px;
+  font-family: Georgia;
+}
+.special{
+
+}
+
+#bio {
+  color: gold;
+}
+
+li a{
+  text-decoration: none;
+  /*text decoration*/
+}
+
+h1,h2{
+  font-family: "Comic Sans MS";
+}
